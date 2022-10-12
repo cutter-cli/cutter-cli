@@ -1,0 +1,22 @@
+{
+  "name": "@cutter-cli/core",
+  "version": "1.0.0",
+  "description": "cutter-cli core",
+  "author": "TCutter <786753417@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Run test from core\""
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
